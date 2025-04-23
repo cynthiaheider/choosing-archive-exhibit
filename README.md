@@ -1,4 +1,4 @@
-# "Choosing a Digital Digital Archive or Exhibit Platform for your Project"
+# "Choosing a Digital Archive or Exhibit Platform for your Project"
 A workshop offered by Cynthia Heider at Penn Libraries.
 
 ## Description 
